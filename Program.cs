@@ -7,5 +7,6 @@
         private string htmlTag;
         private string attrName;
         private string tagAttr;
+        private string mainData;
     }
 }
