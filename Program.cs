@@ -6,5 +6,6 @@
         private string htmlData;
         private string htmlTag;
         private string attrName;
+        private string tagAttr;
     }
 }
