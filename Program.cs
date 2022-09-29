@@ -20,6 +20,7 @@ namespace HTMLParser {
             htmlTag = "";
             attrName = "";
             tagAttr = "";
+            mainData = "";
         }
     }
 }
