@@ -12,5 +12,9 @@ namespace HTMLParser {
         private string mainData;
         private string[] emptyTagList = new[] { "area", "base", "basefont", "br", "col", "frame", "hr", "img", "input", "isindex", "link", "meta", "param" };
         private Dictionary<string, string> attrDict = new Dictionary<string, string>();
+
+        public void Reset() {
+
+        }
     }
 }
