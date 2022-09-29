@@ -16,6 +16,7 @@ namespace HTMLParser {
         public void Reset() {
             dataIndex = 0;
             reverseIndex = 0;
+            htmlData = "";
         }
     }
 }
