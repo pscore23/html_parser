@@ -4,5 +4,7 @@
         private int reverseIndex = 0;
         private char delim;
         private string htmlData;
+        private string htmlTag;
+
     }
 }
