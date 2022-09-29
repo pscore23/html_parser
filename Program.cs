@@ -14,7 +14,7 @@ namespace HTMLParser {
         private Dictionary<string, string> attrDict = new Dictionary<string, string>();
 
         public void Reset() {
-
+            dataIndex = 0;
         }
     }
 }
