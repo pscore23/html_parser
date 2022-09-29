@@ -18,6 +18,7 @@ namespace HTMLParser {
             reverseIndex = 0;
             htmlData = "";
             htmlTag = "";
+            attrName = "";
         }
     }
 }
