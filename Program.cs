@@ -5,6 +5,6 @@
         private char delim;
         private string htmlData;
         private string htmlTag;
-
+        private string attrName;
     }
 }
