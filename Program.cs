@@ -8,5 +8,6 @@
         private string attrName;
         private string tagAttr;
         private string mainData;
+        private string[] emptyTagList = new[] { "area", "base", "basefont", "br", "col", "frame", "hr", "img", "input", "isindex", "link", "meta", "param" };
     }
 }
